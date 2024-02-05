@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yasemin Elvan</h1>
 
 <p align="center">
-    <img width="200" src="https://github.com/jasmineCodeDeveloper/yaseminelvan/blob/main/kathryn.png">
+    <img width="200" src="https://github.com/jasmineCodeDeveloper/jasmineCodeDeveloper/blob/main/kathryn.png">
 </p>
 
 <h3 align="center">A passionate Full Stack developer from Türkiye</h3>
